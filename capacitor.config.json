@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "rujakNewsApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

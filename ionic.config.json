@@ -1,0 +1,7 @@
+{
+  "name": "rujakNewsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
